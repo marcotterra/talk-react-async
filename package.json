@@ -1,5 +1,5 @@
 {
-  "name": "talk-use-async",
+  "name": "talk-react-async",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
